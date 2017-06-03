@@ -1,1 +1,1 @@
-# modular-javascript
+# Modular Javascript
